@@ -1,0 +1,6 @@
+com\SBP\DAO\MachineManager.class
+com\SBP\service\MachineService.class
+com\SBP\controller\MachineController.class
+com\SBP\Model\Machine.class
+com\SBP\Model\Tenant.class
+com\SBP\SpringBootPrep.class
